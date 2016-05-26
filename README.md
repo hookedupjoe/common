@@ -1,2 +1,2 @@
 # common
-Common stuff to share
+This repository is for general, small stuff not related to any specific item.  
